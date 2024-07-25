@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "shopware/core": "6.4.*",
-        "shopware/storefront": "6.4.*",
-        "shopware/administration": "6.4.*"
+        "shopware/core": "~6.4.0 || ~6.5.0",
+        "shopware/storefront": "~6.4.0 || ~6.5.0",
+        "shopware/administration": "~6.4.0 || ~6.5.0"
     },
     "type": "shopware-platform-plugin",
     "autoload": {
